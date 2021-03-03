@@ -31,6 +31,9 @@ export class AddemployeeComponent implements OnInit {
   displayedColumns: string[] = ['firstname', 'emailid', 'phoneno', 'designation', 'action'];
   array: any = [];
   // res:any;
+
+
+  
   dataSource: any = []
   show1 = false;
   show = false;
