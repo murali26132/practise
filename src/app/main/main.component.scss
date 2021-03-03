@@ -1,0 +1,52 @@
+
+.sidenav {
+    height: 100%;
+    width: 266px;
+    position: fixed;
+    z-index: 1;
+    top: 0;
+    left: 0;
+    background-color: #111;
+    overflow-x: hidden;
+    top: 83px;
+    margin-left: 25px;
+    padding-left: 30px;
+    padding-top: 8px;
+    margin-top: 6px;
+  }
+  
+  .sidenav a {
+    // padding: 6px 8px 6px 16px;
+    text-decoration: none;
+    font-size: 25px;
+    color: #818181;
+    display: block;
+    margin-top: 30px;
+    
+  }
+  
+  .sidenav a:hover {
+    color: #f1f1f1;
+  }
+  
+  .main {
+    margin-left: 160px; 
+    font-size: 28px; 
+    padding: 0px 10px;
+  }
+  .navbar{
+      height: 80px;
+  }
+  .navbar h2{
+    //   float:right;
+      padding-left: 150px;
+      width:100%
+  }
+  .navbar h1{
+    color: blue;
+    padding-left: 15px;
+  }
+
+  .navbar h3{
+    padding-left: 895px;
+  }
